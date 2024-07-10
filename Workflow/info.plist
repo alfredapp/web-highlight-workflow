@@ -535,7 +535,7 @@ Copy the URL to a specific text section of a webpage by triggering the [Universa
 		</dict>
 	</array>
 	<key>version</key>
-	<string>2024.0</string>
+	<string>2024.1</string>
 	<key>webaddress</key>
 	<string>https://github.com/alfredapp/web-highlight-workflow/</string>
 </dict>
