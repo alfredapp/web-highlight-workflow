@@ -11,3 +11,5 @@ Copy the URL to a specific text section of a webpage by triggering the [Universa
 ![Showing Universal Action](Workflow/images/about/ua.png)
 
 ![Showing result in web browser](Workflow/images/about/browser.png)
+
+Rerunning on a different selection adds the new text to the previous fragments, allowing for multiple disconnected highlights. Running the Universal Action with <kbd>⌘</kbd><kbd>↩&#xFE0E;</kbd> removes all other selections.

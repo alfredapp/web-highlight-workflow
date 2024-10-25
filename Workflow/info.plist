@@ -773,7 +773,7 @@ Rerunning on a different selection adds the new text to the previous fragments, 
 		</dict>
 	</array>
 	<key>version</key>
-	<string>2024.1</string>
+	<string>2024.2</string>
 	<key>webaddress</key>
 	<string>https://github.com/alfredapp/web-highlight-workflow/</string>
 </dict>
