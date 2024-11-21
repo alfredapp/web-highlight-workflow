@@ -99,7 +99,7 @@
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>DC8ECCB5-0CF4-4112-81A1-E03C352A753D</string>
+				<string>5BA41DC9-C200-4136-9D30-8656EAE81529</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -649,14 +649,14 @@ Rerunning on a different selection adds the new text to the previous fragments, 
 		<key>4200B780-AD2C-47F5-874B-2AFE1B4B9980</key>
 		<dict>
 			<key>xpos</key>
-			<real>1575</real>
+			<real>1715</real>
 			<key>ypos</key>
 			<real>200</real>
 		</dict>
 		<key>421A61A7-3BDC-4FAB-95C5-9282E59DBAA2</key>
 		<dict>
 			<key>xpos</key>
-			<real>1315</real>
+			<real>1455</real>
 			<key>ypos</key>
 			<real>230</real>
 		</dict>
@@ -665,7 +665,7 @@ Rerunning on a different selection adds the new text to the previous fragments, 
 			<key>note</key>
 			<string>Remove previous fragments</string>
 			<key>xpos</key>
-			<real>1035</real>
+			<real>1175</real>
 			<key>ypos</key>
 			<real>230</real>
 		</dict>
@@ -690,7 +690,7 @@ Rerunning on a different selection adds the new text to the previous fragments, 
 			<key>note</key>
 			<string>Save new URL</string>
 			<key>xpos</key>
-			<real>1190</real>
+			<real>1330</real>
 			<key>ypos</key>
 			<real>365</real>
 		</dict>
@@ -715,7 +715,7 @@ Rerunning on a different selection adds the new text to the previous fragments, 
 		<key>A99FC251-B5D4-4174-B9CF-8E84C0E8A511</key>
 		<dict>
 			<key>xpos</key>
-			<real>1400</real>
+			<real>1540</real>
 			<key>ypos</key>
 			<real>335</real>
 		</dict>
@@ -729,7 +729,7 @@ Rerunning on a different selection adds the new text to the previous fragments, 
 		<key>C1945B6F-00CA-4F31-B990-BE82DDBC1EA4</key>
 		<dict>
 			<key>xpos</key>
-			<real>1400</real>
+			<real>1540</real>
 			<key>ypos</key>
 			<real>200</real>
 		</dict>
@@ -745,7 +745,7 @@ Rerunning on a different selection adds the new text to the previous fragments, 
 			<key>note</key>
 			<string>Save new URL</string>
 			<key>xpos</key>
-			<real>1190</real>
+			<real>1330</real>
 			<key>ypos</key>
 			<real>230</real>
 		</dict>
